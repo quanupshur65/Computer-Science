@@ -1,0 +1,2 @@
+1-2
+Python would tell me i had a error and the line the error is at.
