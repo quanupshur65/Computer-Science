@@ -1,2 +1,6 @@
 1-2
 Python would tell me i had a error and the line the error is at.
+Yes you can make sense of it by knowing the line location of the error
+No you cant, it will always be a error because the imput has to be correct for the program to run smoo
+1-3
+If ihad infinate skills i would immediately create a good video game, and a top notch security syetm filled with hand typed codes by myself.
